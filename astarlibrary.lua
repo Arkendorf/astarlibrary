@@ -107,3 +107,7 @@ end
 function setWalkable(num)
   walkable = 1
 end
+
+function setMap(table)
+  map = table
+end
